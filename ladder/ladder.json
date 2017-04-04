@@ -1,0 +1,189 @@
+{
+  "one": {
+    "team": "Port Adelaide",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "184.8",
+    "pfor": "255",
+    "pagainst": "138",
+    "played": "2"
+  },
+  "two": {
+    "team": "Adelaide Crows",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "144.4",
+    "pfor": "260",
+    "pagainst": "180",
+    "played": "2"
+  },
+  "three": {
+    "team": "Richmond",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "136.7",
+    "pfor": "231",
+    "pagainst": "169",
+    "played": "2"
+  },
+  "four": {
+    "team": "Melbourne",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "133.8",
+    "pfor": "206",
+    "pagainst": "154",
+    "played": "2"
+  },
+  "five": {
+    "team": "West Coast Eagles",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "132.6",
+    "pfor": "252",
+    "pagainst": "190",
+    "played": "2"
+  },
+  "six": {
+    "team": "Essendon",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "129.7",
+    "pfor": "227",
+    "pagainst": "184",
+    "played": "2"
+  },
+  "seven": {
+    "team": "Geelong Cats",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "8",
+    "percentage": "123.4",
+    "pfor": "227",
+    "pagainst": "184",
+    "played": "2"
+  },
+  "eight": {
+    "team": "Western Bulldogs",
+    "wins": "2",
+    "losses": "0",
+    "draws": "",
+    "points": "4",
+    "percentage": "121.4",
+    "pfor": "210",
+    "pagainst": "173",
+    "played": "2"
+  },
+  "nine": {
+    "team": "GWS Giants",
+    "wins": "1",
+    "losses": "1",
+    "draws": "",
+    "points": "4",
+    "percentage": "122.4",
+    "pfor": "251",
+    "pagainst": "205",
+    "played": "2"
+  },
+  "ten": {
+    "team": "Brisbane Lions",
+    "wins": "1",
+    "losses": "1",
+    "draws": "",
+    "points": "0",
+    "percentage": "87.9",
+    "pfor": "182",
+    "pagainst": "207",
+    "played": "2"
+  },
+  "eleven": {
+    "team": "Collingwood",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "0",
+    "percentage": "83.4",
+    "pfor": "166",
+    "pagainst": "199",
+    "played": "2"
+  },
+  "twelve": {
+    "team": "North Melbourne",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "0",
+    "percentage": "82.3",
+    "pfor": "204",
+    "pagainst": "248",
+    "played": "2"
+  },
+  "thirteen": {
+    "team": "St Kilda",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "0",
+    "percentage": "79.2",
+    "pfor": "187",
+    "pagainst": "236",
+    "played": "2"
+  },
+  "fithteen": {
+    "team": "Hawthorn",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "4",
+    "percentage": "78.6",
+    "pfor": "180",
+    "pagainst": "229",
+    "played": "2"
+  },
+  "sixteen": {
+    "team": "Sydney Swans",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "4",
+    "percentage": "76.8",
+    "pfor": "169",
+    "pagainst": "220",
+    "played": "2"
+  },
+  "seventeen": {
+    "team": "Carlton",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "4",
+    "percentage": "70.2",
+    "pfor": "153",
+    "pagainst": "218",
+    "played": "2"
+  },
+  "eighteen": {
+    "team": "Gold Coast Suns",
+    "wins": "0",
+    "losses": "2",
+    "draws": "",
+    "points": "4",
+    "percentage": "59.7",
+    "pfor": "154",
+    "pagainst": "258",
+    "played": "2"
+  }
+}
